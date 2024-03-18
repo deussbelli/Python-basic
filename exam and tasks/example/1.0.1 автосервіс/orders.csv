@@ -1,0 +1,6 @@
+date,worker_id,work_hours,car_brand,payment
+2023-01-05,1,3,Ford,60
+2023-01-07,2,2,Chevrolet,50
+2023-01-10,3,4,Toyota,80
+2023-01-15,1,2,Honda,40
+2023-01-18,2,3,Ford,60

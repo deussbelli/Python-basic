@@ -1,0 +1,5 @@
+op_num,op_name,op_price,detail_price
+1,repairing,299,0
+2,clean,100,0
+3,inspection,56.9,0
+4,change,99,149.99

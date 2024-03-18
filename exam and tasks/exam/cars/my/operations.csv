@@ -1,0 +1,6 @@
+operations_id,name_operation,price_operation,detail
+1,Cleaning,1000,0
+2,Washing,1200,0
+3,Replace_detail,3000,1
+4,Replace_detail,3000,2
+5,Replace_detail,3000,3
